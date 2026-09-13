@@ -1,0 +1,19 @@
+🛠️ 2. Engenharia de Prompts e "Cicatrizes" (Troubleshooting & Aprendizados)
+Para extrair as melhores análises da IA e construir este guia, foram aplicadas técnicas avançadas de Engenharia de Prompts. Abaixo estão registrados os testes, variações e aprendizados práticos obtidos durante o processo.
+Variações de Prompts Testados
+Prompt V1 (Genérico): "Me fale sobre inovação e os tipos de inovação que existem nas fontes."
+Resultado obtido: Resposta superficial em lista, sem diferenciar os autores ou conectar os conceitos práticos com os acadêmicos.
+Prompt V2 (Com Papel e Restrição): "Atue como um especialista em estratégia e compare a visão de Clayton Christensen (Inovação Disruptiva) com a de Henry Chesbrough (Inovação Aberta), citando exemplos práticos."
+Resultado obtido: A resposta ganhou profundidade analítica, explicitando a diferença entre focar na dinâmica de mercado/tecnologia (Christensen) e na dinâmica de ecossistema/fronteiras corporativas (Chesbrough).
+Prompt V3 (Estruturado para Avaliação): "Analise as afirmativas da questão sobre Mínimo Produto Viável e Pivotar com base nas fontes, identificando os erros conceituais de cada alternativa incorreta."
+Resultado obtido: Excelente capacidade de resolução de questões técnicas de concursos/provas, apontando as sutilezas conceituais entre invenção, protótipo e inovação.
+"Cicatrizes" e Resolução de Problemas (Troubleshooting)
+Dificuldade 1: Confusão entre Invenção e Inovação.
+Problema: Em prompts iniciais, a IA tendia a tratar invenções tecnológicas (como protótipos de laboratório) como inovações finalizadas.
+Solução: Foi necessário instruir a IA a utilizar a definição estrita de Henry Chesbrough e Martha Gabriel, exigindo que a "entrega de valor econômico ou social no mercado" fosse o critério delimitador da inovação.
+Dificuldade 2: Detalhamento do Modelo de Negócios.
+Problema: A IA resumia "modelo de negócios" apenas como "a forma de ganhar dinheiro".
+Solução: Prompt ajustado para exigir as 6 funções específicas do modelo de negócios segundo Chesbrough (proposta de valor, segmento de mercado, cadeia de valor, estrutura de custos/receita, rede de valor e estratégia competitiva).
+Dificuldade 3: Alinhamento com a linguagem do ecossistema de Startups.
+Problema: Mistura de conceitos de gestão tradicional (P&D fechado) com metodologias ágeis de validação.
+Solução: Inclusão do documento de terminologias para forçar o alinhamento de termos como MVP, Seed Money e Pivotar.
