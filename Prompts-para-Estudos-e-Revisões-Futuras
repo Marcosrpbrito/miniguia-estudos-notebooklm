@@ -1,0 +1,8 @@
+Prompt 1: Análise Diagnóstica de Inovação Corporativa
+"Atue como um consultor de inovação sênior. Com base no modelo dos 'Dez Tipos de Inovação', analise a empresa [Inserir Nome da Empresa] e identifique quais tipos de inovação ela utiliza além do 'Desempenho do Produto'. Apresente o resultado em uma tabela dividida em Configuração, Oferta e Experiência."
+
+Prompt 2: Validação de Ideias e Construção de MVP
+"Tenho uma ideia de negócio que consiste em [Inserir Descrição Breve da Ideia]. Atue como um mentor de startups e elabore um plano de validação inicial contendo: 1) As principais premissas de risco a serem testadas; 2) O formato para um Mínimo Produto Viável (MVP) de baixo custo; 3) As métricas para decidir se devo continuar ou 'pivotar' o negócio."
+
+Prompt 3: Estruturação de Modelo de Negócios (Open Innovation)
+"Assuma o papel de especialista em Open Innovation segundo Henry Chesbrough. Para a tecnologia [Inserir Tecnologia/Ideia], descreva as 6 funções do Modelo de Negócios necessárias para transformar essa inovação técnica em valor econômico no mercado."
